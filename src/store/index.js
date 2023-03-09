@@ -2,6 +2,7 @@ import  reducer from './reducers'
 
 
 
+
 const initialState = {
     cart: [],
     products: [],
@@ -11,5 +12,6 @@ const initialState = {
 
 export {
     initialState,
-    reducer
+    reducer,
+    
 }
